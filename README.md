@@ -19,7 +19,7 @@ relations :
 - one bridge table between orders tbl and customers
 
 
-Digrame:
+diagram:
 
 ![bike_Diagram](https://user-images.githubusercontent.com/91009525/163580608-85395d4b-a6f5-4598-b5f0-f07505b6beb4.png)
 
